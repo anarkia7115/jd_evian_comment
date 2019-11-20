@@ -1,7 +1,7 @@
 # jd_evian_comment
 
 ## Crawler
-Most code are auto generated. If you want to crawl using this project, run `scrapy crawl products`.
+Most codes are auto generated. If you want to crawl using this project, run `scrapy crawl products`.  
 The following codes contains the project-specific work:
 * jd_evian_comment/evian_crawler/evian_crawler/spiders/products.py
 * jd_evian_comment/evian_crawler/evian_crawler/pipelines.py 
@@ -32,4 +32,4 @@ curl -u artefact:facteart \
 	  }'
 ```
 * Use \_source to limit output fields. For example, `"_source": "content"` outputs field `content` only.
-* use **content** to search keywords.
+* Use **content** to search keywords.
