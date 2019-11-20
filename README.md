@@ -2,7 +2,7 @@
 
 ## Crawler
 Most codes are auto generated. If you want to crawl using this project, run `scrapy crawl products`.  
-The following codes contains the project-specific work:
+The following codes contain the project-specific works:
 * jd_evian_comment/evian_crawler/evian_crawler/spiders/products.py
 * jd_evian_comment/evian_crawler/evian_crawler/pipelines.py 
 * jd_evian_comment/evian_crawler/connector.py
